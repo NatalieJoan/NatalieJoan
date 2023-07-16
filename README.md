@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Natalie (username: NatalieJoan)!
+### 👋 Hi, I'm Natalie (known as NatalieJoan)!
 
 🎓 I'm a student of IT at Collegium Da Vinci and currently working as an intern programmer at Teb Akademia in Poznan. I have a passion for coding and I'm enthusiastic about exploring the world of technology!
 
