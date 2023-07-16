@@ -6,4 +6,4 @@
 
 🌟 I love to contribute to open source projects and collaborate with fellow developers to learn and grow together. Being part of the tech community is inspiring and keeps me motivated to constantly expand my knowledge and skills.
 
-📫 Feel free to connect with me! You can reach me via email at nhelak2001@gmail.com or find me on [LinkedIn]https://www.linkedin.com/in/natalia-helak-903957233/
+📫 Feel free to connect with me! You can reach me via email at nhelak2001@gmail.com or find me on [[LinkedIn]]https://www.linkedin.com/in/natalia-helak-903957233/
