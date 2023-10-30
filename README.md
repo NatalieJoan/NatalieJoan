@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Natalie (known as NatalieJoan)!
 
-🎓 I'm a student of IT at Collegium Da Vinci and currently working as an intern programmer at Teb Akademia in Poznan. I have a passion for coding and I'm enthusiastic about exploring the world of technology!
+🎓 I'm a student of IT at Collegium Da Vinci and currently working as a junior PHP developer at Teb Akademia in Poznan. I have a passion for coding and I'm enthusiastic about exploring the world of technology!
 
 💻 My skills include PHP 8, Laravel 10, HTML 5, CSS, JavaScript, MySQL, C++, C#, and Java. I enjoy working with web technologies, building dynamic and responsive websites, and leveraging the power of databases.
 
